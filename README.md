@@ -1,6 +1,7 @@
 # Barbearia Santiago
 <h2>Website desenvolvido para a barbearia Barbearia Santiago.</h2>
-![topo do site](https://github.com/user-attachments/assets/5ef38f29-1569-444c-8c9b-245749be742a)
+<img src="https://github.com/user-attachments/assets/5ef38f29-1569-444c-8c9b-245749be742a">
+![topo do site]()
 
 <h2>Contando a história da Barbearia de uma maneira mais digital.</h2>
 ![barbearia](https://github.com/user-attachments/assets/2be200fc-d939-477a-a841-46eae8ff6fe6)
